@@ -33,7 +33,7 @@
 * 2025.08.27 ~ 2025.03.30 (총 1100시간)
 
 ### 교육내용 
-- Python 프로그래밍 (104시간)<br>
+- **Python 프로그래밍 (104시간)**<br>
  기본자료타입, 입출력, 컬렉션, 함수, 표준라이브러리, 데코레이터, 정규표현식, 클래스, 상속, 오버라이딩, pydantic, typehint, iterable, generator, coroutine, asyncio
 - RDBMS(56시간)<br>
  DML, DDL, DCL, 단일행/그룹함수, Join, SubQuery, View, 트랜잭션, ER-diagram, 정규화
