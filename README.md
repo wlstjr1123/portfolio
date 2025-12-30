@@ -21,3 +21,22 @@
 * API : Kakao Map API, 공공데이터포털 API(XML)
 * 형상관리 : GitHub, gitFlow방식 관리
 * 개발툴 : VS Code
+
+## 코리아IT아카데미 이수 교육 내역
+
+[코리아IT아카데미 (바로가기)](http://gangnam.koreaisacademy.com/)
+
+### 과정명
+* K-digital 랭체인을 활용한 AI 영상객체탐지분석 플랫폼 구축과정
+
+### 교육기간
+* 2025.08.27 ~ 2025.03.30 (총 1100시간)
+
+### 교육내용 
+- **Python 프로그래밍 (104시간)<br>
+ 기본자료타입, 입출력, 컬렉션, 함수, 표준라이브러리, 데코레이터, 정규표현식, 클래스, 상속, 오버라이딩, pydantic, typehint, iterable, generator, coroutine, asyncio
+- **RDBMS(56시간)<br>
+ DML, DDL, DCL, 단일행/그룹함수, Join, SubQuery, View, 트랜잭션, ER-diagram, 정규화
+- **웹 표준  (128시간)
+ HTML 5 / CSS3 / JavaScript / jQuery
+ 반응형웹 / BootStrap / AJAX. fetch API / JSON / XML /
