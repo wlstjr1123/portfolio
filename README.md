@@ -35,14 +35,14 @@
 ### 교육내용 
 - **Python 프로그래밍 (104시간)**<br>
  기본자료타입, 입출력, 컬렉션, 함수, 표준라이브러리, 데코레이터, 정규표현식, 클래스, 상속, 오버라이딩, pydantic, typehint, iterable, generator, coroutine, asyncio
-- RDBMS(56시간)<br>
+- **RDBMS(56시간)**<br>
  DML, DDL, DCL, 단일행/그룹함수, Join, SubQuery, View, 트랜잭션, ER-diagram, 정규화
-- 웹 표준  (128시간) <br>
+- **웹 표준  (128시간)** <br>
  HTML 5 / CSS3 / JavaScript / jQuery
  반응형웹 / BootStrap / AJAX. fetch API / JSON / XML /
-- 데이터분석, 웹크롤링 (64시간)<br>
+- **데이터분석, 웹크롤링 (64시간)**<br>
 numpy, pandas, matplotlib, seaborn, EDA, Split-Apply-Combine
 BeautifulSoup, Selenium,
-- django 웹프레임워크  (64시간)<br>
+- **django 웹프레임워크  (64시간)**<br>
 MTV, URL conv, template, cookie session, ORM, Model, pagination, file, debug, admin, 인증
-- Git, GitHub (8시간)
+- **Git, GitHub (8시간)**
