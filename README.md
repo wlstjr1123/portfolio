@@ -14,5 +14,10 @@
 ### 프로젝트 참여도 및 기술 스택
 * 참여도 : 20%
   - 의사가 한눈에 진료받을 환자의 정보나 7일간 환자 통계 등 볼수있는 의사 대시보드 구현, 의료진이 빠르게 환자의 오더를 처리할수 있도록 실시간 데이터 통신인 웹소켓을 이용한 의료진 대시보드 구현, 의료진이 오더를 처리하기 위한 치료기록 작성 및 검사기록 작성 페이지 구현
-* 프론트 : HTML, CSS, Javascript, Jquery, WebSocket
-* 벡엔드 : Django
+* 프론트 : HTML, CSS, JavaScript(AJAX), Jquery, WebSocket
+* 벡엔드 : Django, redis
+* DB : MySQL, Django ORM
+* 서버 : AWS EC2
+* API : Kakao Map API, 공공데이터포털 API(XML)
+* 형상관리 : GitHub, gitFlow방식 관리
+* 개발툴 : VS Code
