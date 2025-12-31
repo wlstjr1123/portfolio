@@ -23,6 +23,8 @@
 * 형상관리 : GitHub, gitFlow방식 관리
 * 개발툴 : VS Code
 
+<hr/>
+
 #### 플러터로 만든 영화정보 앱
 
 [플러터 영화정보 앱 (바로가기)](https://github.com/wlstjr1123/flutter_movie)
@@ -34,6 +36,10 @@
 * 참여도 : 개인 프로젝트
 * 사용 기술 : flutter, bloc, riverpod, freezed, firebase, Clean Architecture, drift, shared_preferences
 * 개발툴 : Android Studio
+
+<hr/>
+
+### 안드로이드 네이티브로 만든 영화정보 앱
 
 [안드로이드 영화정보 앱 (바로가기)](https://github.com/wlstjr1123/MoviePortfolio)
 
