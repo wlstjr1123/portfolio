@@ -43,13 +43,15 @@
 
 [안드로이드 영화정보 앱 (바로가기)](https://github.com/wlstjr1123/MoviePortfolio)
 
-### 개용
+### 개요
 안드로이드 코틀린을 연습하고 새로나온 컴포즈와 클린 아키택처 구조를 체험 하기 위해 만든 영화정보 앱
 
 ## 프로젝트 참여도 및 기술 스택
-# 참여도 : 개인 프로젝트
+### 참여도 : 개인 프로젝트
 * 사용 기술 : Kotlin, Room, Compose, Navigation Component, Databinding, hilt, Coroutines, ViewModel, Firebase
 * 개발툴 : Android Studio
+
+<hr/>
 
 ## 코리아IT아카데미 이수 교육 내역
 
