@@ -76,7 +76,7 @@ numpy, pandas, matplotlib, seaborn, EDA, Split-Apply-Combine
 BeautifulSoup, Selenium,
 - **django 웹프레임워크  (64시간)**<br>
 MTV, URL conv, template, cookie session, ORM, Model, pagination, file, debug, admin, 인증
-- **Git, GitHub (8시간)**
-- **머신러닝, 딥러닝**
+- **Git, GitHub (8시간)**<br>
+- **머신러닝, 딥러닝**<br>
 Scikit-learn, CNN, RNN, TensorFlow/Keras, Pytorch
-- **랭체인, RAG, 랭그래프**
+- **랭체인, RAG, 랭그래프**<br>
