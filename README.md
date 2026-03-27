@@ -13,7 +13,19 @@
 * 기간 : 2026-02-12 ~ 2026-03-25
 * 참여도 : 20%
   - 내담자가 영상 분석을 하기전 웹캠을 정면으로 응시하고있는지 판단하기 위해 미디어파이스 페이스매쉬를 활용하여 단순히 화면에 얼굴이 있는지 확인하는것을 넘어 사용자가 정확히 정면을 응시하고있는 계산하는 로직을 구현
-  - 얼굴 정면영상을 분석하여 
+  - AffectNet데이터셋을 활용하여 흥미도 모델을 학습
+  - AffectNet의 8개의 감정을 흥미있음과 흥미없음 이진분류로 나누어 데이터를 재정의 하여 전이학습 수행
+* 개발 언어 및 프레임워크 : Python, JavaScript, FastAPI, React, Vite
+* 데이터베이스 : MySQL
+* 프론트엔드 및 상태관리 : React Router, Redux Toolkit, Axios
+* AI 및 데이터 분석 도구 : OpenCV, MediaPipe, TensorFlow, PyTorch, scikit-learn, Whisper, Ollama, OpenAI API
+* 시각화 및 문서화 도구 : Recharts, FullCalendar, html2canvas, jsPDF
+* 외부 연독 API 및 서비스 : YouTube IFrame API, OpenAI API
+* 협업 및 관리 도구 : GitHub, Google Drive
+* 활용 장비 : 웹캠, 마이크, PC/노트북
+* 서버 및 실행 환경 : FastAPI 서버, Uvicorn, GitHub 기반 형상관리 환경
+
+<hr/>
 
 #### 공공데이터 및 웹 크롤링 활용하여 병원(의료)정보 데이터 시각화 대시보드 제작 - 케어브릿지
 
