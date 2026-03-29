@@ -81,7 +81,7 @@
 
 ### 칸반차트로 업무관리하는 하루 프로젝트
 
-[하루 프론트(바로가기)](https://github.com/wlstjr1123/haru)
+[하루 프론트(바로가기)](https://github.com/wlstjr1123/haru)<br>
 [하루 백엔드(바로가기)](https://github.com/wlstjr1123/harubackend)
 
 ### 개요
