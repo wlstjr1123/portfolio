@@ -72,12 +72,31 @@
 ### 개요
 안드로이드 코틀린을 연습하고 새로나온 컴포즈와 클린 아키택처 구조를 체험 하기 위해 만든 영화정보 앱
 
-## 프로젝트 참여도 및 기술 스택
-### 참여도 : 개인 프로젝트
+### 프로젝트 참여도 및 기술 스택
+* 참여도 : 개인 프로젝트
 * 사용 기술 : Kotlin, Room, Compose, Navigation Component, Databinding, hilt, Coroutines, ViewModel, Firebase
 * 개발툴 : Android Studio
 
 <hr/>
+
+### 칸반차트로 업무관리하는 하루 프로젝트
+
+[하루 프론트(바로가기)](https://github.com/wlstjr1123/haru)
+[하루 백엔드(바로가기)](https://github.com/wlstjr1123/harubackend)
+
+### 개요
+* 칸반차트로 팀을 구성해 업무를 관리하는 웹 시스템
+
+### 프로젝트 참여도 및 기술스택
+* 참여도 : 25%
+  - 칸반차트 대시보드 DnD시스템 구현
+  - 칸반차트 팀 초대 기능 구현
+  - 소켓통신으로 실시간 알림 기능 구현
+* 프론트 : JavaScript, React, Axios 
+* 벡엔드 : JAVA, Spring Boot, Mybatis
+* DB : MySql
+* 형상관리 : GitHub
+* 개발툴 : VS Code, Eclipse
 
 ## 코리아IT아카데미 이수 교육 내역
 
